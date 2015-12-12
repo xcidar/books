@@ -9,3 +9,11 @@ gen
 LICENSE
 README.md
 # Created by .ignore support plugin (hsz.mobi)
+log/*
+temp/*
+vendor/*
+!.gitignore
+!.htaccess
+/node_modules
+!web.config
+app/config/config.local.neon
